@@ -1,4 +1,5 @@
 # Marlin 3D Printer Firmware
+USB support
 https://github.com/MarlinFirmware/Marlin/pull/20299?fbclid=IwAR2vuqrMC1kWFmVSXiHGWcRS9E2N9EeUzs58HVoDx45hfdpWqkdfEO0GoTE
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
